@@ -30,7 +30,6 @@ int main(){
   cin >> score[i];
   i++;
  }
- 
  //Print names scores and grades
  i = 0;
  cout << "---------------------------------------------\n";
